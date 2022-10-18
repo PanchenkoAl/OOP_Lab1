@@ -1,0 +1,17 @@
+C:\Users\Ya\source\repos\OOP_Lab1\OOP_Lab1\bin\Debug\net6.0-windows\OOP_Lab1.exe
+C:\Users\Ya\source\repos\OOP_Lab1\OOP_Lab1\bin\Debug\net6.0-windows\OOP_Lab1.deps.json
+C:\Users\Ya\source\repos\OOP_Lab1\OOP_Lab1\bin\Debug\net6.0-windows\OOP_Lab1.runtimeconfig.json
+C:\Users\Ya\source\repos\OOP_Lab1\OOP_Lab1\bin\Debug\net6.0-windows\OOP_Lab1.dll
+C:\Users\Ya\source\repos\OOP_Lab1\OOP_Lab1\bin\Debug\net6.0-windows\OOP_Lab1.pdb
+C:\Users\Ya\source\repos\OOP_Lab1\OOP_Lab1\obj\Debug\net6.0-windows\OOP_Lab1.csproj.AssemblyReference.cache
+C:\Users\Ya\source\repos\OOP_Lab1\OOP_Lab1\obj\Debug\net6.0-windows\OOP_Lab1.Form1.resources
+C:\Users\Ya\source\repos\OOP_Lab1\OOP_Lab1\obj\Debug\net6.0-windows\OOP_Lab1.csproj.GenerateResource.cache
+C:\Users\Ya\source\repos\OOP_Lab1\OOP_Lab1\obj\Debug\net6.0-windows\OOP_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ya\source\repos\OOP_Lab1\OOP_Lab1\obj\Debug\net6.0-windows\OOP_Lab1.AssemblyInfoInputs.cache
+C:\Users\Ya\source\repos\OOP_Lab1\OOP_Lab1\obj\Debug\net6.0-windows\OOP_Lab1.AssemblyInfo.cs
+C:\Users\Ya\source\repos\OOP_Lab1\OOP_Lab1\obj\Debug\net6.0-windows\OOP_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Ya\source\repos\OOP_Lab1\OOP_Lab1\obj\Debug\net6.0-windows\OOP_Lab1.dll
+C:\Users\Ya\source\repos\OOP_Lab1\OOP_Lab1\obj\Debug\net6.0-windows\refint\OOP_Lab1.dll
+C:\Users\Ya\source\repos\OOP_Lab1\OOP_Lab1\obj\Debug\net6.0-windows\OOP_Lab1.pdb
+C:\Users\Ya\source\repos\OOP_Lab1\OOP_Lab1\obj\Debug\net6.0-windows\OOP_Lab1.genruntimeconfig.cache
+C:\Users\Ya\source\repos\OOP_Lab1\OOP_Lab1\obj\Debug\net6.0-windows\ref\OOP_Lab1.dll
